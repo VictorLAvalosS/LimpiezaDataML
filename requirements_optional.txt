@@ -1,0 +1,13 @@
+# ==============================================================
+# LIBRERÍAS OPCIONALES — NO OBLIGATORIAS
+# ==============================================================
+# Instala estas SOLO si quieres usar:
+# 1) google-generativeai -> Chat con IA Gemini (necesita API Key)
+# 2) deep-translator    -> Traductor automático de inglés a español
+#
+# Instalación (en CMD/PowerShell):
+#   pip install -r requirements_optional.txt
+# ==============================================================
+
+google-generativeai
+deep-translator

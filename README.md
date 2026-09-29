@@ -287,7 +287,7 @@ VII. Bibliografía (5 referencias académicas oficiales)
 ## 👥 Integrantes del Grupo
 *(Edita esta sección con los nombres de tu equipo, 5-8 integrantes)*
 
-1. Integrante 1 - Nombre Completo
+1. Integrante 1 - Avalos Serrano Victor Luis
 2. Integrante 2 - Nombre Completo
 3. Integrante 3 - Nombre Completo
 4. Integrante 4 - Nombre Completo
